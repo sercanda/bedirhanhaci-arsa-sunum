@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Hero: React.FC = () => {
@@ -7,7 +6,7 @@ const Hero: React.FC = () => {
       <div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(https://picsum.photos/1920/1080?blur=5&random=1)` }}></div>
       <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/50 to-transparent"></div>
       
-      <div className="absolute top-0 left-0 right-0 bg-black/50 p-2 text-xs md:text-sm tracking-widest animate-pulse">
+      <div className="absolute top-0 left-0 right-0 bg-black/50 p-4 text-lg md:text-xl font-bold tracking-widest animate-pulse">
         <p>🔒 Gizli • Sadece Sizin İçin Hazırlandı • Güzelyalı Mahallesi 1547/8 Parsel Sahibi</p>
       </div>
 
@@ -16,7 +15,7 @@ const Hero: React.FC = () => {
           Arsanızın Gerçek Değerini Biliyor musunuz?
         </h1>
         <p className="mt-4 max-w-3xl text-lg md:text-2xl font-light" style={{textShadow: '0 2px 8px rgba(0,0,0,0.7)'}}>
-          Bu sunum, 1547 ada 8 parsel numaralı arsanızın nasıl 30-60 gün içinde <strong className="font-bold text-yellow-300">%10 daha yüksek fiyata</strong> satılabileceğini gösteriyor.
+          Bu sunum, 1547 ada 8 parsel numaralı arsanızın nasıl 30-60 gün içinde <strong className="font-bold text-yellow-300">hak ettiği en yüksek fiyata</strong> satılabileceğini gösteriyor.
         </p>
         
         <div className="mt-8 bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg px-6 py-3 text-lg font-semibold">
