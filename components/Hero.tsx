@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/50 to-transparent"></div>
       
       <div className="absolute top-0 left-0 right-0 bg-black/50 p-2 text-xs md:text-sm tracking-widest animate-pulse">
-        <p>🔒 Gizli • Sadece Sizin İçin Hazırlandı • Alanlı 1547/8 Parsel Sahibi</p>
+        <p>🔒 Gizli • Sadece Sizin İçin Hazırlandı • Güzelyalı Mahallesi 1547/8 Parsel Sahibi</p>
       </div>
 
       <div className="relative z-10 flex flex-col items-center">

@@ -67,7 +67,7 @@ const UniqueMechanism: React.FC = () => {
         </TimelineStep>
         
         <TimelineStep
-            step={3} icon="📱" title="DİJİTAL PAZARLAMA BOMBASI" duration="Gün 5-10"
+            step={3} icon="📱" title="DİJİTAL PAZARLAMA" duration="Gün 5-10"
             actions={{ title: "Ne yapıyorum:", items: ["Facebook & Instagram reklamları (hedefli kitle)", "Google Ads (arama + harita)", "Emlakjet, Sahibinden, Hepsiemlak PREMIUM ilanlar", "YouTube video reklamı", "500+ alıcı database'ine e-posta"] }}
             benefit={{ title: "📈 Erişim metriği:", text: "Ortalama 15,000-20,000 kişiye ulaşım (ilk 2 hafta)" }}
         >

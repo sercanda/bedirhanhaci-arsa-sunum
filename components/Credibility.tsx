@@ -8,7 +8,7 @@ const Credibility: React.FC = () => {
             <div className="grid md:grid-cols-2 gap-12 items-center">
                 <div className="text-center md:text-left">
                     <img 
-                        src="https://i.ibb.co/spwRFCgm/Whats-App-G-rsel-2025-10-30-saat-15-01-59-52a64fa1.jpg" 
+                        src="https://i.ibb.co/hRJcV9GR/Whats-App-G-rsel-2025-10-31-saat-11-03-21-df516222.jpg" 
                         alt="Bedirhan Hacı" 
                         className="w-48 h-48 md:w-64 md:h-64 rounded-full mx-auto md:mx-0 mb-6 shadow-2xl object-cover" 
                     />

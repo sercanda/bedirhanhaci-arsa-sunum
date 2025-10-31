@@ -15,7 +15,7 @@ const SpecialPlan: React.FC = () => {
                 <div className="inline-block bg-yellow-400 text-gray-900 font-bold px-6 py-2 rounded-full text-sm uppercase tracking-widest mb-4">
                     🎯 SİZİN ARSANIZ İÇİN HAZIRLADIĞIM ÖZEL PLAN
                 </div>
-                <h2 className="text-3xl md:text-5xl font-black">Alanlı, 1547 Ada / 8 Parsel</h2>
+                <h2 className="text-3xl md:text-5xl font-black">Güzelyalı Mahallesi, 1547 Ada / 8 Parsel</h2>
                 <h3 className="text-xl md:text-2xl text-white/80 mt-2">130 Metre Sahil, Ev + Meyve Bahçesi</h3>
             </div>
             
@@ -23,7 +23,7 @@ const SpecialPlan: React.FC = () => {
                 <DetailCard title="KONUM ANALİZİ" icon="📍">
                     <ul className="space-y-2 text-white/80">
                         <li><strong>İl/İlçe:</strong> Samsun / Atakum</li>
-                        <li><strong>Mahalle:</strong> Alanlı</li>
+                        <li><strong>Mahalle:</strong> Güzelyalı Mahallesi</li>
                         <li><strong>Özellik:</strong> Ana Taşınmaz</li>
                         <li><strong>Mevcut Yapı:</strong> Arsa üzerinde tek katlı bina</li>
                     </ul>

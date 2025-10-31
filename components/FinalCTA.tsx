@@ -15,7 +15,7 @@ const FinalCTA: React.FC = () => {
 
       <div className="mt-12 max-w-6xl mx-auto flex justify-center items-center">
         <div className="text-center">
-          <img src="https://i.ibb.co/spwRFCgm/Whats-App-G-rsel-2025-10-30-saat-15-01-59-52a64fa1.jpg" alt="Bedirhan Hacı" className="w-32 h-32 rounded-full mx-auto mb-6 object-cover" />
+          <img src="https://i.ibb.co/hRJcV9GR/Whats-App-G-rsel-2025-10-31-saat-11-03-21-df516222.jpg" alt="Bedirhan Hacı" className="w-32 h-32 rounded-full mx-auto mb-6 object-cover" />
           <h3 className="text-2xl font-bold">Bedirhan Hacı</h3>
           <div className="mt-6 flex justify-center space-x-4">
              {/* Social media icons can be placed here */}
